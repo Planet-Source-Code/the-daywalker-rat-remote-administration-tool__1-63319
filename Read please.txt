@@ -1,0 +1,24 @@
+RAT: Remote Administration Tool
+Version: 1.0
+
+
+Descrption:
+
+RAT is an advanced utility developed for network administrators to track and control over the network computers. it had coded in simple and effective way using VB 6.0. it contains server and client program. server will be handeled by admins and client will be running on client machines. it uses basic winsock control. it's special among other tools are
+	:scanners
+	:user info
+	:chat
+	:message
+	:trojan scanner 
+
+
+
+Note: this source is for educational and private purposes only. and iam not responsible for any out breaks.
+it needs "MSWinsock.ocx" to execute if VB not installed
+
+
+AUTHOR:
+
+Yuvaraj.B
+thedaywalker (nick)
+thedaywalker@hackermail.com ("ratuser" as subject while mailing)
